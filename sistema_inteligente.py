@@ -1,7 +1,8 @@
 import heapq
 import math
-
-# =====================================================================
+#sistema inteligente de transporte Masivo
+# Lorena Lozano /Ing. Ciencia de Datos.
+# =====================================================================# =====================================================================
 # 1. BASE DE CONOCIMIENTO: Red de estaciones de transporte local
 # Modelamos las estaciones como reglas lógicas de conexión y coordenadas (X, Y)
 # =====================================================================
@@ -69,11 +70,11 @@ def encontrar_ruta_optima(punto_inicio, punto_destino):
     return None, "No se logró consolidar una ruta válida entre los puntos."
 
 # =====================================================================
-# Bloque de prueba de la estudiante
+# Bloque de prueba 
 # =====================================================================
 if __name__ == "__main__":
-    estacion_origen = 'Portal Norte'
-    estacion_destino = 'Aguas'
+    estacion_origen = 'Calle 100'
+    estacion_destino = 'Marly'
     
     minutos_totales, itinerario = encontrar_ruta_optima(estacion_origen, estacion_destino)
     
