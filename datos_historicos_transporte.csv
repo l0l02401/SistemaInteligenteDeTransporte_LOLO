@@ -1,0 +1,301 @@
+Estacion_origen,Estacion_Destino,Hora_viaje,Es_Hora_Pico,Clima,Dia_semana,Retraso_Critico
+Calle 26,Marly,19,1,lluvia fuerte,Fin de semana,1
+Calle 26,Calle 72,15,0,lluvia fuerte,Fin de semana,1
+Aguas,Calle 26,7,1,lluvia moderada,laboral,0
+Heroes,Calle 72,10,0,lluvia moderada,Fin de semana,0
+Portal Norte,Calle 100,16,0,despejado,laboral,0
+Calle 26,Calle 72,20,0,lluvia fuerte,Fin de semana,1
+Marly,Calle 72,16,0,lluvia fuerte,Fin de semana,0
+Calle 100,Toberin,11,0,despejado,laboral,1
+Heroes,Calle 100,18,1,lluvia moderada,Fin de semana,1
+Calle 72,Calle 100,19,1,lluvia fuerte,Fin de semana,1
+Calle 26,Aguas,18,1,despejado,Fin de semana,1
+Heroes,Calle 72,10,0,lluvia moderada,Fin de semana,0
+Calle 72,Marly,22,0,lluvia moderada,Fin de semana,0
+Marly,Calle 26,18,1,lluvia fuerte,Fin de semana,1
+Marly,Calle 72,12,0,despejado,Fin de semana,0
+Calle 26,Marly,17,1,despejado,laboral,0
+Portal Norte,Toberin,11,0,despejado,Fin de semana,0
+Aguas,Calle 26,15,0,lluvia fuerte,laboral,0
+Calle 100,Toberin,9,1,lluvia moderada,laboral,0
+Heroes,Calle 100,13,0,lluvia moderada,laboral,1
+Calle 26,Calle 72,9,1,lluvia fuerte,Fin de semana,1
+Calle 100,Heroes,5,0,lluvia fuerte,laboral,0
+Calle 100,Toberin,9,1,lluvia moderada,laboral,0
+Calle 26,Aguas,13,0,lluvia fuerte,laboral,1
+Heroes,Calle 100,11,0,despejado,Fin de semana,0
+Heroes,Calle 72,9,1,lluvia fuerte,laboral,1
+Calle 100,Toberin,8,1,despejado,Fin de semana,0
+Calle 100,Portal Norte,6,0,lluvia moderada,laboral,0
+Calle 72,Calle 100,16,0,lluvia moderada,Fin de semana,0
+Toberin,Portal Norte,11,0,lluvia moderada,laboral,0
+Calle 100,Portal Norte,17,1,despejado,laboral,1
+Aguas,Calle 26,13,0,lluvia moderada,laboral,0
+Toberin,Calle 100,19,1,lluvia fuerte,Fin de semana,1
+Aguas,Calle 26,13,0,despejado,Fin de semana,0
+Heroes,Calle 72,11,0,lluvia moderada,laboral,0
+Portal Norte,Calle 100,21,0,lluvia fuerte,laboral,0
+Heroes,Calle 72,9,1,despejado,laboral,1
+Toberin,Portal Norte,16,0,lluvia moderada,Fin de semana,0
+Calle 26,Aguas,15,0,lluvia fuerte,laboral,0
+Aguas,Calle 26,9,1,lluvia moderada,Fin de semana,1
+Calle 26,Marly,13,0,lluvia fuerte,Fin de semana,0
+Calle 100,Calle 72,8,1,lluvia fuerte,Fin de semana,1
+Calle 100,Calle 72,11,0,despejado,laboral,0
+Calle 26,Calle 72,12,0,despejado,laboral,0
+Portal Norte,Calle 100,14,0,lluvia fuerte,laboral,0
+Toberin,Calle 100,21,0,lluvia moderada,laboral,1
+Heroes,Calle 100,9,1,lluvia fuerte,laboral,1
+Calle 100,Heroes,20,0,lluvia fuerte,Fin de semana,0
+Aguas,Calle 26,5,0,lluvia fuerte,laboral,1
+Marly,Calle 26,7,1,lluvia moderada,laboral,0
+Calle 72,Calle 100,18,1,lluvia moderada,Fin de semana,0
+Aguas,Calle 26,13,0,despejado,Fin de semana,0
+Calle 72,Calle 26,12,0,lluvia fuerte,laboral,0
+Portal Norte,Calle 100,16,0,lluvia fuerte,laboral,0
+Marly,Calle 26,10,0,lluvia moderada,laboral,0
+Aguas,Calle 26,6,0,despejado,Fin de semana,0
+Calle 26,Marly,9,1,despejado,Fin de semana,1
+Calle 100,Calle 72,21,0,despejado,Fin de semana,0
+Calle 72,Calle 100,10,0,lluvia fuerte,Fin de semana,1
+Aguas,Calle 26,21,0,lluvia moderada,laboral,0
+Heroes,Calle 100,5,0,lluvia fuerte,Fin de semana,1
+Toberin,Portal Norte,7,1,lluvia moderada,Fin de semana,1
+Calle 26,Calle 72,6,0,lluvia fuerte,laboral,1
+Toberin,Portal Norte,12,0,despejado,laboral,0
+Aguas,Calle 26,11,0,despejado,Fin de semana,0
+Calle 100,Portal Norte,17,1,lluvia moderada,laboral,1
+Calle 72,Calle 26,5,0,lluvia moderada,Fin de semana,1
+Calle 100,Heroes,19,1,lluvia moderada,Fin de semana,1
+Calle 26,Calle 72,21,0,lluvia moderada,Fin de semana,0
+Calle 100,Calle 72,9,1,despejado,Fin de semana,0
+Heroes,Calle 72,9,1,lluvia fuerte,Fin de semana,0
+Aguas,Calle 26,19,1,lluvia fuerte,laboral,1
+Aguas,Calle 26,17,1,lluvia moderada,Fin de semana,0
+Calle 100,Toberin,9,1,lluvia moderada,laboral,1
+Calle 26,Marly,16,0,despejado,laboral,0
+Portal Norte,Toberin,6,0,lluvia moderada,Fin de semana,0
+Aguas,Calle 26,17,1,despejado,laboral,0
+Calle 26,Aguas,9,1,lluvia moderada,laboral,1
+Heroes,Calle 72,20,0,lluvia fuerte,laboral,1
+Calle 72,Calle 100,9,1,lluvia fuerte,laboral,1
+Marly,Calle 26,9,1,lluvia moderada,Fin de semana,1
+Calle 26,Marly,9,1,lluvia fuerte,Fin de semana,1
+Calle 72,Calle 26,6,0,lluvia fuerte,Fin de semana,0
+Toberin,Calle 100,5,0,despejado,laboral,0
+Aguas,Calle 26,20,0,lluvia fuerte,Fin de semana,1
+Aguas,Calle 26,16,0,lluvia moderada,laboral,0
+Portal Norte,Toberin,15,0,despejado,Fin de semana,0
+Portal Norte,Calle 100,14,0,lluvia fuerte,Fin de semana,1
+Heroes,Calle 100,18,1,lluvia moderada,laboral,1
+Calle 100,Heroes,21,0,lluvia moderada,Fin de semana,0
+Toberin,Calle 100,6,0,lluvia fuerte,laboral,0
+Toberin,Portal Norte,22,0,despejado,laboral,0
+Heroes,Calle 100,8,1,lluvia moderada,laboral,0
+Aguas,Calle 26,7,1,despejado,laboral,1
+Toberin,Portal Norte,11,0,lluvia fuerte,Fin de semana,0
+Heroes,Calle 100,17,1,lluvia fuerte,laboral,1
+Marly,Calle 72,21,0,lluvia moderada,Fin de semana,0
+Marly,Calle 72,21,0,despejado,laboral,0
+Portal Norte,Toberin,18,1,lluvia fuerte,Fin de semana,1
+Toberin,Portal Norte,20,0,despejado,laboral,0
+Portal Norte,Calle 100,8,1,despejado,laboral,0
+Calle 26,Marly,14,0,lluvia moderada,laboral,0
+Toberin,Portal Norte,7,1,lluvia fuerte,laboral,1
+Toberin,Portal Norte,16,0,despejado,Fin de semana,0
+Portal Norte,Toberin,10,0,lluvia fuerte,Fin de semana,0
+Toberin,Portal Norte,22,0,lluvia fuerte,Fin de semana,1
+Calle 72,Heroes,10,0,lluvia fuerte,Fin de semana,1
+Portal Norte,Calle 100,21,0,lluvia fuerte,laboral,0
+Heroes,Calle 72,10,0,lluvia fuerte,laboral,0
+Marly,Calle 72,14,0,lluvia moderada,laboral,1
+Calle 100,Toberin,17,1,lluvia moderada,Fin de semana,1
+Heroes,Calle 72,12,0,despejado,laboral,0
+Portal Norte,Toberin,17,1,lluvia moderada,laboral,1
+Portal Norte,Toberin,5,0,lluvia moderada,laboral,0
+Heroes,Calle 100,17,1,despejado,laboral,0
+Marly,Calle 72,15,0,despejado,Fin de semana,0
+Heroes,Calle 100,22,0,lluvia fuerte,laboral,1
+Calle 26,Aguas,5,0,despejado,Fin de semana,0
+Aguas,Calle 26,15,0,lluvia moderada,Fin de semana,1
+Marly,Calle 26,12,0,lluvia moderada,Fin de semana,0
+Aguas,Calle 26,22,0,despejado,laboral,0
+Calle 100,Portal Norte,21,0,despejado,laboral,0
+Calle 72,Calle 26,20,0,despejado,laboral,0
+Calle 72,Calle 100,22,0,lluvia fuerte,Fin de semana,0
+Portal Norte,Calle 100,14,0,lluvia moderada,Fin de semana,0
+Calle 72,Marly,5,0,lluvia moderada,laboral,0
+Calle 26,Marly,15,0,despejado,Fin de semana,0
+Marly,Calle 72,21,0,despejado,laboral,0
+Calle 100,Heroes,5,0,despejado,Fin de semana,1
+Heroes,Calle 100,9,1,lluvia fuerte,laboral,0
+Calle 72,Marly,9,1,despejado,laboral,0
+Calle 100,Toberin,18,1,despejado,Fin de semana,1
+Calle 72,Heroes,8,1,lluvia moderada,laboral,0
+Aguas,Calle 26,6,0,lluvia fuerte,Fin de semana,1
+Toberin,Calle 100,7,1,lluvia fuerte,Fin de semana,0
+Marly,Calle 26,9,1,lluvia moderada,Fin de semana,0
+Portal Norte,Calle 100,19,1,lluvia fuerte,laboral,1
+Marly,Calle 26,15,0,lluvia fuerte,laboral,1
+Heroes,Calle 72,10,0,lluvia moderada,Fin de semana,0
+Calle 26,Aguas,6,0,despejado,Fin de semana,0
+Calle 26,Calle 72,14,0,lluvia fuerte,laboral,0
+Heroes,Calle 72,21,0,lluvia moderada,laboral,0
+Aguas,Calle 26,9,1,lluvia moderada,Fin de semana,1
+Calle 72,Calle 100,15,0,lluvia fuerte,Fin de semana,1
+Calle 26,Marly,20,0,lluvia fuerte,laboral,1
+Aguas,Calle 26,8,1,despejado,laboral,0
+Calle 100,Toberin,22,0,despejado,Fin de semana,0
+Calle 72,Heroes,22,0,lluvia moderada,laboral,1
+Marly,Calle 72,9,1,despejado,Fin de semana,1
+Toberin,Portal Norte,18,1,lluvia moderada,laboral,1
+Toberin,Portal Norte,19,1,despejado,Fin de semana,1
+Marly,Calle 72,20,0,despejado,laboral,0
+Portal Norte,Calle 100,21,0,lluvia fuerte,laboral,0
+Calle 26,Aguas,18,1,lluvia moderada,Fin de semana,1
+Aguas,Calle 26,6,0,despejado,Fin de semana,1
+Aguas,Calle 26,11,0,lluvia fuerte,laboral,0
+Calle 100,Heroes,17,1,lluvia moderada,Fin de semana,1
+Calle 100,Heroes,9,1,lluvia moderada,laboral,1
+Calle 26,Calle 72,16,0,despejado,laboral,0
+Portal Norte,Calle 100,14,0,lluvia fuerte,laboral,0
+Calle 26,Aguas,6,0,lluvia fuerte,Fin de semana,0
+Heroes,Calle 100,14,0,despejado,laboral,0
+Toberin,Calle 100,6,0,lluvia fuerte,Fin de semana,0
+Marly,Calle 72,5,0,despejado,Fin de semana,0
+Marly,Calle 72,20,0,lluvia moderada,laboral,1
+Marly,Calle 72,13,0,lluvia fuerte,laboral,0
+Aguas,Calle 26,9,1,lluvia fuerte,Fin de semana,1
+Heroes,Calle 100,8,1,lluvia fuerte,Fin de semana,0
+Marly,Calle 26,10,0,lluvia fuerte,Fin de semana,0
+Calle 26,Aguas,12,0,lluvia moderada,laboral,0
+Calle 72,Calle 100,8,1,lluvia fuerte,Fin de semana,1
+Portal Norte,Calle 100,19,1,despejado,Fin de semana,0
+Marly,Calle 72,15,0,lluvia fuerte,Fin de semana,1
+Calle 100,Toberin,10,0,lluvia moderada,Fin de semana,1
+Calle 26,Calle 72,16,0,lluvia moderada,laboral,0
+Heroes,Calle 100,9,1,despejado,laboral,1
+Calle 26,Calle 72,7,1,lluvia moderada,laboral,0
+Marly,Calle 26,16,0,lluvia moderada,Fin de semana,0
+Calle 100,Toberin,6,0,lluvia fuerte,laboral,0
+Aguas,Calle 26,12,0,lluvia fuerte,laboral,0
+Heroes,Calle 72,7,1,despejado,laboral,0
+Calle 100,Portal Norte,8,1,despejado,laboral,0
+Toberin,Calle 100,12,0,lluvia fuerte,Fin de semana,1
+Calle 100,Toberin,10,0,despejado,laboral,0
+Portal Norte,Toberin,21,0,despejado,laboral,0
+Marly,Calle 72,12,0,lluvia fuerte,laboral,1
+Marly,Calle 72,11,0,lluvia fuerte,Fin de semana,0
+Heroes,Calle 100,19,1,despejado,laboral,0
+Calle 26,Aguas,8,1,despejado,Fin de semana,0
+Calle 72,Heroes,5,0,lluvia moderada,Fin de semana,0
+Toberin,Portal Norte,14,0,despejado,Fin de semana,0
+Calle 26,Aguas,8,1,despejado,Fin de semana,0
+Calle 26,Marly,12,0,despejado,laboral,0
+Heroes,Calle 100,6,0,lluvia fuerte,laboral,0
+Heroes,Calle 72,15,0,lluvia fuerte,laboral,0
+Marly,Calle 26,12,0,lluvia moderada,Fin de semana,0
+Calle 26,Calle 72,18,1,lluvia fuerte,Fin de semana,0
+Aguas,Calle 26,22,0,despejado,laboral,1
+Heroes,Calle 100,16,0,despejado,Fin de semana,1
+Calle 26,Calle 72,21,0,lluvia fuerte,Fin de semana,1
+Calle 100,Toberin,18,1,despejado,Fin de semana,0
+Portal Norte,Calle 100,9,1,despejado,Fin de semana,0
+Marly,Calle 72,5,0,lluvia fuerte,Fin de semana,0
+Aguas,Calle 26,19,1,despejado,laboral,1
+Portal Norte,Calle 100,13,0,lluvia fuerte,laboral,0
+Toberin,Portal Norte,10,0,lluvia moderada,laboral,0
+Toberin,Portal Norte,21,0,lluvia fuerte,laboral,0
+Calle 100,Portal Norte,11,0,lluvia moderada,laboral,0
+Portal Norte,Toberin,15,0,lluvia moderada,Fin de semana,1
+Calle 72,Heroes,11,0,despejado,Fin de semana,0
+Heroes,Calle 72,12,0,despejado,laboral,0
+Calle 72,Calle 100,21,0,despejado,laboral,0
+Aguas,Calle 26,22,0,despejado,Fin de semana,0
+Toberin,Calle 100,21,0,lluvia moderada,Fin de semana,0
+Calle 26,Marly,12,0,despejado,laboral,0
+Aguas,Calle 26,14,0,lluvia moderada,laboral,0
+Heroes,Calle 100,22,0,lluvia fuerte,laboral,0
+Portal Norte,Toberin,7,1,lluvia fuerte,laboral,1
+Aguas,Calle 26,19,1,despejado,laboral,0
+Heroes,Calle 100,12,0,lluvia moderada,laboral,1
+Marly,Calle 26,18,1,lluvia fuerte,Fin de semana,1
+Calle 72,Calle 100,18,1,lluvia fuerte,laboral,0
+Calle 26,Calle 72,11,0,despejado,laboral,0
+Aguas,Calle 26,8,1,despejado,Fin de semana,0
+Portal Norte,Toberin,9,1,lluvia fuerte,Fin de semana,0
+Calle 100,Heroes,16,0,despejado,laboral,0
+Marly,Calle 72,6,0,despejado,Fin de semana,0
+Toberin,Calle 100,16,0,despejado,Fin de semana,0
+Calle 100,Portal Norte,21,0,lluvia moderada,laboral,0
+Portal Norte,Calle 100,6,0,despejado,laboral,0
+Marly,Calle 26,15,0,lluvia moderada,Fin de semana,1
+Calle 72,Heroes,6,0,lluvia fuerte,laboral,1
+Toberin,Calle 100,14,0,despejado,Fin de semana,1
+Calle 72,Heroes,10,0,lluvia moderada,Fin de semana,1
+Toberin,Calle 100,10,0,lluvia fuerte,Fin de semana,1
+Calle 72,Heroes,11,0,lluvia moderada,laboral,0
+Calle 72,Calle 26,18,1,lluvia moderada,Fin de semana,0
+Portal Norte,Toberin,8,1,lluvia fuerte,Fin de semana,1
+Calle 100,Calle 72,15,0,despejado,laboral,0
+Calle 100,Portal Norte,6,0,lluvia fuerte,laboral,0
+Marly,Calle 72,5,0,lluvia moderada,Fin de semana,0
+Calle 100,Heroes,15,0,despejado,Fin de semana,0
+Calle 100,Portal Norte,13,0,lluvia moderada,Fin de semana,1
+Portal Norte,Calle 100,21,0,despejado,laboral,0
+Aguas,Calle 26,14,0,despejado,laboral,1
+Toberin,Portal Norte,16,0,lluvia fuerte,Fin de semana,1
+Heroes,Calle 100,9,1,lluvia fuerte,laboral,0
+Portal Norte,Calle 100,21,0,lluvia fuerte,Fin de semana,0
+Aguas,Calle 26,12,0,lluvia fuerte,laboral,0
+Calle 72,Calle 100,20,0,lluvia moderada,Fin de semana,1
+Portal Norte,Calle 100,19,1,lluvia fuerte,Fin de semana,1
+Toberin,Portal Norte,14,0,lluvia fuerte,laboral,1
+Calle 72,Calle 100,11,0,lluvia moderada,laboral,0
+Portal Norte,Toberin,20,0,lluvia moderada,laboral,0
+Toberin,Portal Norte,11,0,lluvia fuerte,Fin de semana,0
+Calle 26,Marly,18,1,lluvia fuerte,Fin de semana,1
+Heroes,Calle 100,6,0,lluvia fuerte,laboral,0
+Toberin,Portal Norte,16,0,lluvia fuerte,laboral,0
+Heroes,Calle 100,17,1,lluvia moderada,laboral,0
+Toberin,Calle 100,6,0,lluvia fuerte,laboral,0
+Marly,Calle 72,17,1,despejado,Fin de semana,0
+Calle 100,Heroes,11,0,lluvia moderada,Fin de semana,1
+Portal Norte,Toberin,16,0,despejado,Fin de semana,0
+Calle 26,Marly,14,0,lluvia moderada,laboral,0
+Heroes,Calle 100,5,0,lluvia moderada,laboral,1
+Marly,Calle 26,22,0,lluvia moderada,Fin de semana,0
+Aguas,Calle 26,5,0,despejado,Fin de semana,1
+Calle 26,Marly,8,1,lluvia fuerte,Fin de semana,1
+Calle 72,Marly,10,0,lluvia fuerte,Fin de semana,0
+Aguas,Calle 26,15,0,lluvia moderada,laboral,0
+Calle 26,Aguas,12,0,despejado,laboral,0
+Calle 100,Toberin,18,1,lluvia moderada,laboral,1
+Toberin,Portal Norte,21,0,lluvia moderada,laboral,0
+Calle 72,Heroes,19,1,lluvia fuerte,laboral,1
+Heroes,Calle 72,21,0,despejado,laboral,0
+Toberin,Calle 100,21,0,lluvia fuerte,Fin de semana,0
+Calle 72,Calle 26,19,1,despejado,laboral,0
+Calle 72,Calle 100,15,0,despejado,Fin de semana,0
+Heroes,Calle 100,13,0,lluvia fuerte,laboral,0
+Toberin,Portal Norte,19,1,despejado,laboral,0
+Toberin,Calle 100,19,1,lluvia moderada,Fin de semana,0
+Aguas,Calle 26,22,0,lluvia moderada,laboral,1
+Calle 72,Calle 26,9,1,despejado,laboral,1
+Calle 72,Calle 26,7,1,lluvia moderada,Fin de semana,1
+Calle 72,Heroes,10,0,lluvia fuerte,Fin de semana,0
+Portal Norte,Toberin,20,0,despejado,laboral,0
+Portal Norte,Toberin,14,0,lluvia fuerte,laboral,0
+Calle 26,Marly,15,0,despejado,Fin de semana,0
+Calle 26,Aguas,14,0,lluvia moderada,Fin de semana,0
+Marly,Calle 72,22,0,lluvia moderada,Fin de semana,0
+Heroes,Calle 100,6,0,despejado,Fin de semana,0
+Portal Norte,Toberin,12,0,lluvia fuerte,Fin de semana,0
+Aguas,Calle 26,17,1,lluvia fuerte,Fin de semana,1
+Marly,Calle 72,14,0,despejado,Fin de semana,0
+Heroes,Calle 72,19,1,lluvia moderada,laboral,1
+Heroes,Calle 72,8,1,lluvia moderada,Fin de semana,1
+Portal Norte,Calle 100,21,0,lluvia moderada,Fin de semana,0
+Toberin,Calle 100,22,0,lluvia moderada,Fin de semana,0
+Calle 72,Calle 26,8,1,lluvia fuerte,laboral,1
+Heroes,Calle 100,15,0,despejado,Fin de semana,0
