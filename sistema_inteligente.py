@@ -149,6 +149,8 @@ def ejecutar_modulo_aprendizaje_supervisado():
         print("\n---REPORTE DE PRUEBAS DE COMPONENTE I.A")
         print("Matriz de confusion: ")
         print(confusion_matrix(y_test, y_pred))
+        print("\nMétricas de Clasificación:")
+        print(classification_report(y_test, y_pred, target_names=['Sin Retraso', 'Retraso Critico']))
 
         plt.figure(figsize=(16,8))
         plot_tree(arbol_transporte, feature_names=X.columns, class_names=['Sin Retraso', 'Retraso Critico'], filled=True, rounded=True, fontsize=8)
